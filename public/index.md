@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Este sábado, 5 de março de 2022, é o
+**⚠️ Atenção: para o evento de 2024, utilize o [link](/opendataday2024/). ⚠️**
+
+Sábado, 5 de março de 2022, foi o
 [Open Data Day](https://opendataday.org/pt_br/) (dia dos dados abertos)!
-Neste dia, eventos ao redor do mundo reúnem pessoas para discutir e
+Neste dia, eventos ao redor do mundo reuniram pessoas para discutir e
 celebrar os dados abertos. Para saber mais sobre os eventos passados do
 Open Data Day no Brasil,
 [veja este texto](https://herrmann.tech/pt/blog/2022/02/23/open-data-day-2022-esta-chegando-conheca-os-anteriores-no-brasil.html).
